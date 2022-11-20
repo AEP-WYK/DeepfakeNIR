@@ -78,7 +78,7 @@ DeepfakeNIR contains 3,847 videos in total. Specifically, the detailed construct
 
 [1] S L Happy, A. Dasgupta, A. George and A. Routray, “A Video Database of Human Faces under Nea Infra-Red Illumination for Human Computer Interaction Applications,” in IEEE Proceedings of 4th International Conference on Intelligent Human Computer Interaction, Kharagpur, India, 2012.
 <p align="center">
-<img src="./DeepfakeNIR.png"  alt="DeepfakeNIR" title="DeepfakeNIR" align="center", width="500"></img>
+<img src="./DeepfakeNIR.png"  alt="DeepfakeNIR" title="DeepfakeNIR" align="center", width="800"></img>
 </p>   
    Fig. 1. Example frames in DeepfakeNIR with a diverse perturbations in terms of local block-wise distortion (BW), white Gaussian noise in color (GNC), color contrast change (CC), gaussian blur (GB) and jpeg compression (JPEG).
 
