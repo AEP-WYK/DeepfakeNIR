@@ -8,18 +8,18 @@
 ## Introduction
    **Previous datasets**
    
-   |       Dataset name       |         Download         |Generate method|      Deepfake videos     |           Actors           |
-   |--------------------------|--------------------------|----|--------------------------|----------------------------|
-   |   Faceforensics++        |[download](https://github.com/ondyari/FaceForensics)|Deepfake|1000|977|
-   |Celeb-DF v1|[download](https://github.com/danmohaha/celeb-deepfakeforensics)|Deepfake|795|13|
-   |Celeb-DF v2|[download](https://github.com/danmohaha/celeb-deepfakeforensics)|Deepfake|590|59|
-   |   WildDeepfake   |[download](https://github.com/deepfakeinthewild/deepfake-in-the-wild#download)|Internet|707|
+   |       Dataset name       |         Download         |Generate method|      Deepfake videos     | 
+   |--------------------------|--------------------------|----|--------------------------|
+   |   Faceforensics++        |[download](https://github.com/ondyari/FaceForensics)|Deepfake|1000|
+   |Celeb-DF v1|[download](https://github.com/danmohaha/celeb-deepfakeforensics)|Deepfake|795|
+   |Celeb-DF v2|[download](https://github.com/danmohaha/celeb-deepfakeforensics)|Deepfake|590|
+   |   WildDeepfake   |[download](https://github.com/deepfakeinthewild/deepfake-in-the-wild#download)|Internet|
    
    **Ours**
    
-   |       Dataset name       |         Download         |Generate method|      Deepfake videos     |           Actors           |
-   |--------------------------|--------------------------|----|--------------------------|----------------------------|
-   |   **DeepfakeNIR**   |[**download(copq)**](https://pan.baidu.com/s/1riKmooLu19ikZG1VsUJOJg)|**Deepfacelab**|**1908**|**-**|
+   |       Dataset name       |         Download         |Generate method|      Deepfake videos     | 
+   |--------------------------|--------------------------|----|--------------------------|
+   |   **DeepfakeNIR**   |[**download(copq)**](https://pan.baidu.com/s/1riKmooLu19ikZG1VsUJOJg)|**Deepfacelab**|**1908**|
 
 
 **File Structure**:
