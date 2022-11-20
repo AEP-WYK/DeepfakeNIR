@@ -11,8 +11,8 @@
    |       Dataset name       |         Download         |Generate method|      Deepfake videos     |           Actors           |
    |--------------------------|--------------------------|----|--------------------------|----------------------------|
    |   Faceforensics++        |[download](https://github.com/ondyari/FaceForensics)|Deepfake|1000|977|
-   |Celeb-deepfakeforensics v1|[download](https://github.com/danmohaha/celeb-deepfakeforensics)|Deepfake|795|13|
-   |Celeb-deepfakeforensics v2|[download](https://github.com/danmohaha/celeb-deepfakeforensics)|Deepfake|590|59|
+   |Celeb-DF v1|[download](https://github.com/danmohaha/celeb-deepfakeforensics)|Deepfake|795|13|
+   |Celeb-DF v2|[download](https://github.com/danmohaha/celeb-deepfakeforensics)|Deepfake|590|59|
    |   WildDeepfake   |[download](https://github.com/deepfakeinthewild/deepfake-in-the-wild#download)|Internet|707|
    
    **Ours**
@@ -52,6 +52,8 @@ DeepfakeNIR
                 ...
             
             ...
+
+
             |--51-60.zip
                 |--sub51_1
                     |--001.mp4
@@ -71,14 +73,12 @@ In each zip file, there will be several folders containing NIR forgery videos, a
 
 
 
-## Our Method
+## Examples
 <p align="center">
-<img src="./ADDNet.png"  alt="ADDNet" title="ADDNet" align="center"></img>
+<img src="./DeepfakeNIR.png"  alt="DeepfakeNIR" title="DeepfakeNIR" align="center"></img>
 </p>   
-   The network structure of our proposed ADDNet-2D is illustrated in bellow. Detailed structures of the three residual blocks used in our ADDNet-2D network are shown in bellow too. These three blocks are also the building blocks of XceptionNet. The base network before the "resblock3" is our proposed ADDblock. Our ADDNet-3D shares the same ADD block architecture as ADDNet-2D, but having one ADD block for each of the face image in the sequence. Therefore, in our setting with face sequence length 𝐿, ADDNet-3D will have 𝐿 ADDblocks, each ADD blocks share the same weights. Also different to ADDNet-2D, the classifier network(structure after the ADDblock) of ADDNet-3D is a 3D CNN.
-<p align="center">
-<img src="./details.jpg"  alt="details" title="detials" align="center"></img>
-</p>
+   Example frames in DeepfakeNIR with a diverse perturbations in terms of local block-wise distortion (BW), white Gaussian noise in color (GNC), color contrast change (CC), gaussian blur (GB) and jpeg compression (JPEG).
+
 
 
 
