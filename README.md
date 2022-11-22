@@ -14,6 +14,7 @@
    |Celeb-DF v1|[download](https://github.com/danmohaha/celeb-deepfakeforensics)|Deepfake|795|
    |Celeb-DF v2|[download](https://github.com/danmohaha/celeb-deepfakeforensics)|Deepfake|590|
    |   WildDeepfake   |[download](https://github.com/deepfakeinthewild/deepfake-in-the-wild#download)|Internet|
+   |Near Infrared Face Database|[download](https://sites.google.com/site/nirdatabase/download)|-| 60|
    
    **Ours**
    
@@ -86,4 +87,4 @@ DeepfakeNIR contains 3,847 videos in total. Specifically, the detailed construct
 
 
 ## Download
-You can download [here](https://drive.google.com/drive/folders/18TXkAxBneHlGchfGTMGURb7EdyfkrTzy). We support Baidu drive.
+You can download [here](https://drive.google.com/drive/folders/18TXkAxBneHlGchfGTMGURb7EdyfkrTzy). We support Google driver.
