@@ -19,7 +19,7 @@
    
    |       Dataset name       |         Download         |Generate method|      Deepfake videos     | 
    |--------------------------|--------------------------|----|--------------------------|
-   |   **DeepfakeNIR**   |[**download(copq)**](https://pan.baidu.com/s/1riKmooLu19ikZG1VsUJOJg)|**Deepfacelab**|**1908**|
+   |   **DeepfakeNIR**   |[**download**](https://drive.google.com/drive/folders/18TXkAxBneHlGchfGTMGURb7EdyfkrTzy)|**Deepfacelab**|**1908**|
 
 
 **File Structure**:
@@ -86,4 +86,4 @@ DeepfakeNIR contains 3,847 videos in total. Specifically, the detailed construct
 
 
 ## Download
-You can download [here(copq)](https://pan.baidu.com/s/1riKmooLu19ikZG1VsUJOJg). We support Baidu drive.
+You can download [here](https://drive.google.com/drive/folders/18TXkAxBneHlGchfGTMGURb7EdyfkrTzy). We support Baidu drive.
