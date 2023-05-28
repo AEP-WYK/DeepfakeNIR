@@ -88,3 +88,14 @@ DeepfakeNIR contains 3,847 videos in total. Specifically, the detailed construct
 
 ## Download
 You can download [here](https://drive.google.com/drive/folders/18TXkAxBneHlGchfGTMGURb7EdyfkrTzy). We support Google driver.
+
+## Citation
+```
+@article{wang2022spatialtemporal,
+  title={Spatial-Temporal Frequency Forgery Clue for Video Forgery Detection in VIS and NIR Scenario},
+  author={Yukai Wang and Chunlei Peng and Decheng Liu and Nannan Wang and Xinbo Gao},
+  journal={IEEE Transactions on Circuits and Systems for Video Technology},
+  year={2022},
+  publisher={IEEE}
+}
+```
